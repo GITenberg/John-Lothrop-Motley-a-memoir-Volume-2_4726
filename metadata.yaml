@@ -1,5 +1,5 @@
 _repo: John-Lothrop-Motley-a-memoir-Volume-2_4726
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,5 +25,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PS'
 - !lcsh 'Motley, John Lothrop, 1814-1877'
+- GITenberg
 title: John Lothrop Motley. a memoir — Volume 2
 url: http://www.gutenberg.org/ebooks/4726
